@@ -23,6 +23,7 @@ which centred around the problem of universals and the notion of metaphysical re
 examined Universals, Relations, and States of Affairs, as well as my collaboration on Grundriss der Geschichte der Philosophie. Die Philosophie des Mittelalters, vol. 3/1 (12. Jahrhundert).
 
 For several years, I was a research assistant with various teaching appointments at the University of Zurich.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
