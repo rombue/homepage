@@ -10,11 +10,20 @@ My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
 aims at providing the basis for an epistemology of algorithms.
 
-I am also a collaborator on the project
+As a collaborator on the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
- at the University of Geneva
+at the University of Geneva, I am working on the philosophy of arithmetic in the Brentanian tradition, especially in
+Stumpf, Ehrenfels and Husserl.
 
+Beyond the philosophy of logic and mathematics, I have worked extensively on metaphysical questions in Ancient Greek and Medieval Latin philosophy.
 
+I was a collaborator on the project
+[Realisms](./https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms.html),
+which centred around the problem of universals in medieval Latin and Austro-German philosophy.
+
+examined Universals, Relations, and States of Affairs, as well as my collaboration on Grundriss der Geschichte der Philosophie. Die Philosophie des Mittelalters, vol. 3/1 (12. Jahrhundert).
+
+Previously, I was a research assistant with various teaching appointments at the University of Zurich.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
