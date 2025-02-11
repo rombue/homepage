@@ -5,7 +5,7 @@ description: Interested in the Philosophy of X, for any X worthwhile.
 #url: "https://rombue.github.io"
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Navigation
 nav:
@@ -19,6 +19,9 @@ nav:
     url: "/about/"
 
 # Plugins
+plugins:
+  - jekyll-remote-theme
+
 gems:
   - jekyll-feed
   - jekyll-sitemap
