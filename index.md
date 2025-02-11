@@ -12,18 +12,17 @@ aims at providing the basis for an epistemology of algorithms.
 
 As a collaborator on the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
-at the University of Geneva, I am working on the philosophy of arithmetic in the Brentanian tradition, especially in
-Stumpf, Ehrenfels and Husserl.
+at the University of Geneva, I am preparing a paper on the philosophy of arithmetic in the Brentanian tradition, especially
+in Stumpf, Ehrenfels and Husserl.
 
-Beyond the philosophy of logic and mathematics, I have worked extensively on metaphysical questions in Ancient Greek and Medieval Latin philosophy.
-
+Beyond this, I have worked extensively on metaphysical questions in ancient Greek and medieval Latin philosophy.
 I was a collaborator on the project
 [Realisms](./https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms.html),
-which centred around the problem of universals in medieval Latin and Austro-German philosophy.
+which centred around the problem of universals and the notion of metaphysical realism.
 
 examined Universals, Relations, and States of Affairs, as well as my collaboration on Grundriss der Geschichte der Philosophie. Die Philosophie des Mittelalters, vol. 3/1 (12. Jahrhundert).
 
-Previously, I was a research assistant with various teaching appointments at the University of Zurich.
+For several years, I was a research assistant with various teaching appointments at the University of Zurich.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
