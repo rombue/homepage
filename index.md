@@ -23,9 +23,9 @@ I was a collaborator on the project
 [Realisms](./https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms.html),
 which centred around the problem of universals and the notion of metaphysical realism.
 
-examined Universals, Relations, and States of Affairs, as well as my collaboration on Grundriss der Geschichte der Philosophie. Die Philosophie des Mittelalters, vol. 3/1 (12. Jahrhundert).
-
-For several years, I was a research assistant with various teaching appointments at the University of Zurich.
+Moreover, I was given the opportunity to contribute to the monumental series _Grundriss der Geschichte der Philosophie_
+by compiling a complete bibliography of the works available to 12th century philosophers in an
+[ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
