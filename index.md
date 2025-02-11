@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
+<p style="text-align: justify;">
 In my work, I have mainly been concerned with questions in the history and epistemology
 of logic, mathematics and computer science.
 Topics included counting and counting notations, logical identity and variables,
-the history of early analytic philosophy and the history of the decision problem.
+the history of early analytic philosophy and the history of the decision problem..
+</p>
+
 
 My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
