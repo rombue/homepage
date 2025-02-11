@@ -1,2 +1,2 @@
 # homepage
-Website Repository
+At the moment, this is just a repository for my personal website.
