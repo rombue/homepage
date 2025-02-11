@@ -1,0 +1,60 @@
+title: Romain Büchi
+logo: /assets/img/logo.png
+description: Interested in the Philosophy of X, for any X worthwhile.
+#baseurl: ""
+#url: "https://rombue.github.io"
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Papers"
+    url: "/papers/"
+  - title: "Talks"
+    url: "/talks/"
+  - title: "About"
+    url: "/about/"
+
+# Plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Publications
+collections:
+  papers:
+    output: true
+    permalink: /papers/:path/
+
+# Talks with timeline
+collections:
+  talks:
+    output: true
+    permalink: /talks/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+
+# Sidebar settings
+sidebar:
+  enabled: true
+  nav: "nav"
+
+# Social media
+#social:
+ # twitter: yourhandle
+ # github: yourgithubusername
