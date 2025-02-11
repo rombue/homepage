@@ -6,8 +6,6 @@ In my work, I have mainly been concerned with questions in the history and epist
 of logic, mathematics and computer science.
 Topics included counting and counting notations, logical identity and variables,
 the history of early analytic philosophy and the history of the decision problem..
-</p>
-
 
 My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
@@ -26,6 +24,8 @@ which centred around the problem of universals and the notion of metaphysical re
 Moreover, I was given the opportunity to contribute to the monumental series _Grundriss der Geschichte der Philosophie_
 by compiling a complete bibliography of the works available to 12th century philosophers in an
 [ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
+
+</p>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
