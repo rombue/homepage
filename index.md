@@ -1,10 +1,20 @@
 ---
 layout: default
 ---
+In my work, I have mainly been concerned with questions in the history and epistemology
+of logic, mathematics and computer science.
+Topics included counting and counting notations, logical identity and variables,
+the history of early analytic philosophy and the history of the decision problem.
+My current project,
+[Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
+aims at providing the basis for an epistemology of algorithms.
+I am also a collaborator on the project
+[Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
+ at the University of Geneva
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
