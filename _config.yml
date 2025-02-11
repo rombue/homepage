@@ -3,7 +3,7 @@ logo: assets/img/RB.JPG
 description: Interested in the Philosophy of X, for any X worthwhile.
 #baseurl: ""
 #url: "https://rombue.github.io"
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
