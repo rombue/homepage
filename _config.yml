@@ -5,6 +5,7 @@ description: Philosopher of X<br>for any X found worthwhile.
 url: 
 show_downloads: false
 site.github.is_user_page: false
+site.github.is_project_page: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
 
