@@ -28,7 +28,7 @@ by compiling a complete bibliography of the works available to 12th century phil
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ (18/2024)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex)
 
 **Über Variablen und Entscheidbarkeit**<br>
 PhD thesis, _University of Zurich_<br>
