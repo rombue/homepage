@@ -23,11 +23,14 @@ by compiling a complete bibliography of the works available to 12th century phil
 [ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
 
 
-
-## Papers
+Here
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ (18/2024)<br>
+([PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex)
+
+**Über das Wesen der Zahlen. Ein kurzer Dialog zwischen Philosophie und Mathematik**<br>
+in _Z’Phil – Die Philosophiezeitschrift der Zürcher Studierenden_ (1/2024)<br>
 ([PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex)
 
 **Über Variablen und Entscheidbarkeit**<br>
