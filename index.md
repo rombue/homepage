@@ -11,7 +11,7 @@ My current project,
 aims at providing the basis for a general epistemology of algorithms.
 As a collaborator in the project
 [Origins of Contemporary European Thought 1837–1938](https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
-at the University of Geneva, I am preparing a paper on the philosophy of arithmetic in the Brentanian tradition, especially
+at the University of Geneva, I am focussing on the philosophy of arithmetic in the Brentanian tradition, especially
 in Stumpf, Kerry, and Husserl.
 
 I have also worked extensively on metaphysical problems in ancient Greek and medieval Latin philosophy,
