@@ -76,48 +76,48 @@ Those that were recorded are linked accordingly:
 Homotophy Type Theory Seminar<br>
 _Carnegie Mellon University_, Pittsburgh, 7 February 2025
 
-**Bemerkungen über die mathematische Praxis des Vermutens**
+**Bemerkungen über die mathematische Praxis des Vermutens**<br>
 RheWeSe – Rheinisch-Westfälisches Seminar<br>
 _University of Siegen_, 5 July 2024
 
-**Towards a Meinongian Semantics for Mathematical Discourse**
-Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle
+**Towards a Meinongian Semantics for Mathematical Discourse**<br>
+Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle<br>
 _University of Geneva_, 14 May 2024
 
-**African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**
-African Philosophy Reading Group
+**African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**<br>
+African Philosophy Reading Group<br>
 _University of Zurich_ (online), 16 January 2024
 
-**Intuitions and the Mathematical Practice of Conjecturing**
-Nancy-Liège Workshop on Mathematical Intuition
+**Intuitions and the Mathematical Practice of Conjecturing**<br>
+Nancy-Liège Workshop on Mathematical Intuition<br>
 _University of Liège_, 6-8 November 2023
 
-**Remarks on the Semantics of Variables**
-Bologna-Bonn-Padova BoBoPa Work in Progress Seminar
+**Remarks on the Semantics of Variables**<br>
+Bologna-Bonn-Padova BoBoPa Work in Progress Seminar<br>
 _University of Bonn_ (online), 3 April 2023
 
-**On Variables and the Limits of Decision**
-Bologna-Bonn-Padova BoBoPa Work in Progress Seminar
+**On Variables and the Limits of Decision**<br>
+Bologna-Bonn-Padova BoBoPa Work in Progress Seminar<br>
 _University of Bonn_ (online), 9 May 2022
 		
-**Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**
-Symposium on the Philosophy of Hans-Johann Glock
+**Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**<br>
+Symposium on the Philosophy of Hans-Johann Glock<br>
 _University of Zurich_, 16 September 2021
 	
-**The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**
-Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy:
+**The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**<br>
+Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy<br>
 _University of Zurich_, 6-7 November 2020
 	
-**How Whitehead Influenced Wittgenstein's Thinking About Mathematics**	
-Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein
+**How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
+Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein<br>
 _UC Berkeley_, 5-6 April 2019
 
-**Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**
-41<sup>st</sup> International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics
+**Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
+41<sup>st</sup> International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics<br>
 Kirchberg am Wechsel, 6-11 August 2019
 
-**Das Problem der Übersetzung philosophischer Texte**
+**Das Problem der Übersetzung philosophischer Texte**<br>
 Translatio – Eine Tagung zur Übersetzung philosophischer Texte
-aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)
+aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)<br>
 _University of Zurich_, 14-15 September 2018
 
