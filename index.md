@@ -135,7 +135,7 @@ University of Zurich
 **How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
 _Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein_,
 UC Berkeley<br>
-[Video](https://www.truthandpower.com/?page_id=806)
+[Video](https://www.truthandpower.com/?page_id=806) (day 3, part 1)
 
 2019 August 6<br>
 **Whitehead and Wittgenstein. On the Theory of Types, Symbolism, and Mathematics**<br>
