@@ -36,22 +36,26 @@ PhD thesis, _University of Zurich_, 2023<br>
 
 **Identität**<br>
 in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | BibTex
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[BibTex](./assets/papers/RB-2022-bibtex.bib)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
 in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber 2021<br>
-[PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | BibTex
+[PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | 
+[BibTex](./assets/papers/RB-2021-bibtex.bib)
 
 **Ein Dialog über Zahlen und das Zählen**<br>
 [PDF](./assets/papers/RB-2019-DialogUeberZahlenUndDasZaehlen.pdf)
 
 **Identität und Tautologie bei Wittgenstein**<br>
 in _Wittgenstein-Studien_ 7/2016<br>
-[PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | BibTex
+[PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | 
+[BibTex](./assets/papers/RB-2016-bibtex.bib)
 
 **Identität und Typentheorie bei Wittgenstein**<br>
 in _Wittgenstein-Studien_ 5/2014<br>
-[PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | BibTex
+[PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | 
+[BibTex](./assets/papers/RB-2014-bibtex.bib)
 
 **Über das Zählen**<br>
 Master thesis, _University of Zurich_ 2014<br>
@@ -59,113 +63,5 @@ Master thesis, _University of Zurich_ 2014<br>
 
 **Schrift und Notation**<br>
 in _Germanistik in der Schweiz_ 8/2011<br>
-[PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | BibTex
-
-
-# Papers
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
+[BibTex](./assets/papers/RB-2011-bibtex.bib)
