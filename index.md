@@ -2,24 +2,25 @@
 layout: default
 ---
 
-In my work, I have mainly been concerned with questions in the history and epistemology
+In my research, I have mainly been concerned with questions in the history and epistemology
 of logic, mathematics and computer science.
-Topics included counting and counting notations, logical identity and variables,
-the history of early analytic philosophy and the history of the decision problem..
+I have worked on counting and counting notations, on logical identity and variables,
+on the history of early analytic philosophy and of the classical decision problem.
 My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
 aims at providing the basis for a general epistemology of algorithms.
-As a collaborator on the project
+As a collaborator in the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
 at the University of Geneva, I am preparing a paper on the philosophy of arithmetic in the Brentanian tradition, especially
-in Stumpf, Kerry and Husserl.
+in Stumpf, Kerry, and Husserl.
 
-Beyond this, I have worked extensively on metaphysical questions in ancient Greek and medieval Latin philosophy.
-I was a collaborator on the project
+I have also worked extensively on metaphysical problems in ancient Greek and medieval Latin philosophy,
+in particular while I was a collaborator in the project
 [Realisms](./https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms.html),
-which centred around the problem of universals and the notion of metaphysical realism.
-Moreover, I was given the opportunity to contribute to the monumental series _Grundriss der Geschichte der Philosophie_
-by compiling a complete bibliography of the works available to 12th century philosophers in an
+which revolved around the problem of universals and the notion of metaphysical realism.
+At an early stage of my doctorate I had the opportunity to contribute to the monumental series
+_Grundriss der Geschichte der Philosophie_ by compiling a complete bibliography of the works
+available to 12<sup>th</sup> century philosophers in an
 [ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
 
 
@@ -45,6 +46,7 @@ in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Al
 [BibTex](./assets/papers/RB-2021-bibtex.bib)
 
 **Ein Dialog über Zahlen und das Zählen**<br>
+unpublished<br>
 [PDF](./assets/papers/RB-2019-DialogUeberZahlenUndDasZaehlen.pdf)
 
 **Identität und Tautologie bei Wittgenstein**<br>
