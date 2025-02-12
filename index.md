@@ -28,7 +28,7 @@ by compiling a complete bibliography of the works available to 12th century phil
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ (18/2024)<br>
-([PDF](./assets/papers/) | BibTex)
+(PDF | BibTex)
 
 **Über Variablen und Entscheidbarkeit**<br>
 PhD thesis, _University of Zurich_<br>
@@ -36,27 +36,27 @@ PhD thesis, _University of Zurich_<br>
 
 **Identität**<br>
 in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler (2022)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2022-Identitaet-WH.pdf) | BibTex)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
 in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber (2021)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | BibTex)
 
 **Identität und Tautologie bei Wittgenstein**<br>
 in _Wittgenstein-Studien: (7/2016)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | BibTex)
 
 **Identität und Typentheorie bei Wittgenstein**<br>
 in _Wittgenstein-Studien_ (5/2014)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | BibTex)
 
 **Über das Zählen**<br>
 Master thesis, _University of Zurich_<br>
-(PDF)
+([PDF](./assets/papers/RB-2014-UeberDasZaehlen.pdf))
 
 **Schrift und Notation**<br>
 in _Germanistik in der Schweiz_ (8/2011)<br>
-(PDF | BibTex)
+([PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | BibTex)
 
 
 # Papers
