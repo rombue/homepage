@@ -68,9 +68,56 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
 
-Here a list of selected talks I have given:
+Here is a selection of talks I have given.
+Those that were recorded are linked accordingly:
 <a id="talks"></a>
 
-Legendre
+**Legendre on the Distribution of Primes: A Case Study in the Art of Forming Mathematical Conjectures**<br>
+Homotophy Type Theory Seminar<br>
+_Carnegie Mellon University_, Pittsburgh, 7 February 2025
 
+**Bemerkungen über die mathematische Praxis des Vermutens**
+RheWeSe – Rheinisch-Westfälisches Seminar<br>
+_University of Siegen_, 5 July 2024
+
+**Towards a Meinongian Semantics for Mathematical Discourse**
+Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle
+_University of Geneva_, 14 May 2024
+
+**African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**
+African Philosophy Reading Group
+_University of Zurich_ (online), 16 January 2024
+
+**Intuitions and the Mathematical Practice of Conjecturing**
+Nancy-Liège Workshop on Mathematical Intuition
+_University of Liège_, 6-8 November 2023
+
+**Remarks on the Semantics of Variables**
+Bologna-Bonn-Padova BoBoPa Work in Progress Seminar
+_University of Bonn_ (online), 3 April 2023
+
+**On Variables and the Limits of Decision**
+Bologna-Bonn-Padova BoBoPa Work in Progress Seminar
+_University of Bonn_ (online), 9 May 2022
+		
+**Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**
+Symposium on the Philosophy of Hans-Johann Glock
+_University of Zurich_, 16 September 2021
+	
+**The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**
+Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy:
+_University of Zurich_, 6-7 November 2020
+	
+**How Whitehead Influenced Wittgenstein's Thinking About Mathematics**	
+Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein
+_UC Berkeley_, 5-6 April 2019
+
+**Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**
+41<sup>st</sup> International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics
+Kirchberg am Wechsel, 6-11 August 2019
+
+**Das Problem der Übersetzung philosophischer Texte**
+Translatio – Eine Tagung zur Übersetzung philosophischer Texte
+aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)
+_University of Zurich_, 14-15 September 2018
 
