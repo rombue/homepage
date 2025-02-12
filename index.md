@@ -9,7 +9,7 @@ the history of early analytic philosophy and the history of the decision problem
 
 My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
-aims at providing the basis for an epistemology of algorithms.
+aims at providing the basis for a general epistemology of algorithms.
 
 As a collaborator on the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
@@ -31,8 +31,32 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Papers
 
-_Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
-## Über Beweis, Wahrheit und Gewissheit in der Mathematik
+*Über Beweis, Wahrheit und Gewissheit in der Mathematik*
+_in Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
+
+*Über Variablen und Entscheidbarkeit<br>
+Philosophische Betrachtungen über den Gebrauch von Buchstaben als Variablen,
+die Entscheidbarkeit von Prädikaten und den Zusammenhang zwischen
+Unentscheidbarkeit und Buchstabengebrauch in logischen Formalsprachen*
+_PhD Thesis, University of Zurich_
+
+*Identität*
+_in A. Weiberg, S. Majetschak (eds.), Wittgenstein-Handbuch, Metzler Verlag (2022)_
+
+*Wittgensteins neue Logik und Whiteheads universale Algebra*
+_in B. Ritter, D. Sölch (eds.), Wittgenstein und die Philosophiegeschichte, Alber Verlag (2021)_
+
+*Identität und Tautologie bei Wittgenstein*
+_in Wittgenstein-Studien (7/2016)_
+
+*Identität und Typentheorie bei Wittgenstein*
+_in Wittgenstein-Studien (5/2014)_
+
+*Über das Zählen*
+_Master Thesis, University of Zurich_
+
+*Schrift und Notation*
+_in Germanistik in der Schweiz (8/2011)_
 
 
 # Papers
