@@ -72,59 +72,71 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2025 February 7<br>
 **Legendre on the Distribution of Primes. A Case Study in the Art of Forming Mathematical Conjectures**<br>
 _Homotophy Type Theory Seminar_,
-Carnegie Mellon University, Pittsburgh, 7 February 2025<br>
+Carnegie Mellon University, Pittsburgh<br>
 [Abstract](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html)
 
+2024 July 5<br>
 **Bemerkungen über die mathematische Praxis des Vermutens**<br>
 _RheWeSe – Rheinisch-Westfälisches Seminar_,
-University of Siegen, 5 July 2024<br>
+University of Siegen<br>
 [Abstract](https://www.uni-siegen.de/fb6/phima/rhewese/rhewese24.html)
 
+2024 May 14<br>
 **Towards a Meinongian Semantics for Mathematical Discourse**<br>
 _OCET Lectures and Workshop Series: Austro-German Philosophy – Between Bolzano and the Vienna Circle_,
-University of Geneva, 14 May 2024<br>
+University of Geneva<br>
 [Programme (PDF)](https://www.unige.ch/lettres/philo/application/files/6817/1387/7488/Programme_AGP-05-2024.pdf)
 
+2024 January 16<br>
 **African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**<br>
 _African Philosophy Reading Group_,
-University of Zurich (online), 16 January 2024
+University of Zurich (online)
 
+2023 November 8<br>
 **Intuitions and the Mathematical Practice of Conjecturing**<br>
 _Nancy-Liège Workshop on Mathematical Intuition_,
-University of Liège, 6-8 November 2023<br>
+University of Liège<br>
 [Video](https://www.youtube.com/live/jMGEPFuKR_g?si=OsHrhDRxk1okgyRi&t=13653) (3:47:33-5:07:40)
 
+2023 April 3<br>
 **Remarks on the Semantics of Variables**<br>
 _Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
-University of Bonn (online), 3 April 2023
+University of Bonn (online)
 
+2022 May 9<br>
 **On Variables and the Limits of Decision**<br>
 _Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
-University of Bonn (online), 9 May 2022
+University of Bonn (online)
 		
+2021 September 16<br>
 **Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**<br>
 _Symposium on the Philosophy of Hans-Johann Glock_,
-University of Zurich, 16 September 2021
-	
+University of Zurich
+
+2020 November 7<br>
 **The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**<br>
 _Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy_,
-University of Zurich, 6-7 November 2020
-	
+University of Zurich
+
+2019 April 6<br>
 **How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
 _Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein_,
-UC Berkeley, 5-6 April 2019<br>
+UC Berkeley<br>
 [Video](https://www.truthandpower.com/?page_id=806)
 
+2019 August 6<br>
 **Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
 _41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
-Kirchberg am Wechsel, 6-11 August 2019<br>
+Kirchberg am Wechsel<br>
 [Abstract (PDF)](https://www.alws.at/abstract_2018.pdf) (p. 4)
 
+2018 September 14<br>
 **Das Problem der Übersetzung philosophischer Texte**<br>
 _Translatio – Eine Tagung zur Übersetzung philosophischer Texte
 aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)_,
-University of Zurich, 14-15 September 2018<br>
+University of Zurich<br>
 [Programme (PDF)](https://www.uzh.ch/dam/jcr:5559881a-3f78-494c-9955-ed05a76f6cc1/translatioflyer.pdf)
 
