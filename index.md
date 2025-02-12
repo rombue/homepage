@@ -6,11 +6,9 @@ In my work, I have mainly been concerned with questions in the history and epist
 of logic, mathematics and computer science.
 Topics included counting and counting notations, logical identity and variables,
 the history of early analytic philosophy and the history of the decision problem..
-
 My current project,
 [Algorithms and Proofs as Sources of Understanding in Mathematics](./https://data.snf.ch/grants/grant/222039.html), 
 aims at providing the basis for a general epistemology of algorithms.
-
 As a collaborator on the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
 at the University of Geneva, I am preparing a paper on the philosophy of arithmetic in the Brentanian tradition, especially
@@ -20,16 +18,13 @@ Beyond this, I have worked extensively on metaphysical questions in ancient Gree
 I was a collaborator on the project
 [Realisms](./https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms.html),
 which centred around the problem of universals and the notion of metaphysical realism.
-
 Moreover, I was given the opportunity to contribute to the monumental series _Grundriss der Geschichte der Philosophie_
 by compiling a complete bibliography of the works available to 12th century philosophers in an
 [ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-
-# Papers
+## Papers
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 _in Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
