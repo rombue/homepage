@@ -31,31 +31,31 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Papers
 
-*Über Beweis, Wahrheit und Gewissheit in der Mathematik*
+**Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 _in Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
 
-*Über Variablen und Entscheidbarkeit<br>
+**Über Variablen und Entscheidbarkeit.
 Philosophische Betrachtungen über den Gebrauch von Buchstaben als Variablen,
 die Entscheidbarkeit von Prädikaten und den Zusammenhang zwischen
-Unentscheidbarkeit und Buchstabengebrauch in logischen Formalsprachen*
+Unentscheidbarkeit und Buchstabengebrauch in logischen Formalsprachen**<br>
 _PhD Thesis, University of Zurich_
 
-*Identität*
+**Identität**<br>
 _in A. Weiberg, S. Majetschak (eds.), Wittgenstein-Handbuch, Metzler Verlag (2022)_
 
-*Wittgensteins neue Logik und Whiteheads universale Algebra*
+**Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
 _in B. Ritter, D. Sölch (eds.), Wittgenstein und die Philosophiegeschichte, Alber Verlag (2021)_
 
-*Identität und Tautologie bei Wittgenstein*
+**Identität und Tautologie bei Wittgenstein**<br>
 _in Wittgenstein-Studien (7/2016)_
 
-*Identität und Typentheorie bei Wittgenstein*
+**Identität und Typentheorie bei Wittgenstein**<br>
 _in Wittgenstein-Studien (5/2014)_
 
-*Über das Zählen*
+**Über das Zählen**<br>
 _Master Thesis, University of Zurich_
 
-*Schrift und Notation*
+**Schrift und Notation**<br>
 _in Germanistik in der Schweiz (8/2011)_
 
 
