@@ -2,30 +2,30 @@
 layout: default
 ---
 
-<div class="center-text">
+<div class="justify-text">
 In my research, I have mainly been concerned with questions in the history and epistemology
 of logic, mathematics and computer science.
 I have worked on counting and counting notations, on logical identity and variables,
 on the history of early analytic philosophy and of the classical decision problem.
 My current project,
-[Algorithms and Proofs as Sources of Understanding in Mathematics](https://data.snf.ch/grants/grant/222039), 
+<a href="https://example.com](https://data.snf.ch/grants/grant/222039)">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
 aims at providing the basis for a general epistemology of algorithms.
 As a collaborator in the project
-[Origins of Contemporary European Thought 1837–1938](https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet)
+<a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet">Origins of Contemporary European Thought 1837–1938</a>
 at the University of Geneva, I am focussing on the philosophy of arithmetic in the Brentanian tradition, especially
 in Stumpf, Kerry, and Husserl.
 
 I have also worked extensively on metaphysical problems in ancient Greek and medieval Latin philosophy,
 in particular while I was a collaborator in the project
-[Realisms](https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms),
+<a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms">Realisms</a>,
 which revolved around the problem of universals and the notion of metaphysical realism.
 At an early stage of my doctorate I had the opportunity to contribute to the monumental series
 _Grundriss der Geschichte der Philosophie_ by compiling a complete bibliography of the works
 available to 12th century philosophers in an
-[ideal library](https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2).
+<a href="https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2">ideal library</a>.
 
 My publications and some unpublished writings are listed below.
-Further down you will also find a selection of [talks](#talks) I have given.
+Further down you will also find a selection of <a href="#talks">talks</a> I have given.
 </div>
 
 ---
