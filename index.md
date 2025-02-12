@@ -27,7 +27,8 @@ Here
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
-[PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex
+[PDF](./assets/papers/RB-2024-BeweisWahrheitGewissheit.pdf) | 
+[BibTex](./assets/papers/RB-2024-bibtex.bib)
 
 **Über Variablen und Entscheidbarkeit**<br>
 PhD thesis, _University of Zurich_, 2023<br>
