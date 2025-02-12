@@ -12,7 +12,7 @@ aims at providing the basis for a general epistemology of algorithms.
 As a collaborator on the project
 [Origins of Contemporary European Thought 1837–1938](./https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet.html)
 at the University of Geneva, I am preparing a paper on the philosophy of arithmetic in the Brentanian tradition, especially
-in Stumpf, Ehrenfels and Husserl.
+in Stumpf, Kerry and Husserl.
 
 Beyond this, I have worked extensively on metaphysical questions in ancient Greek and medieval Latin philosophy.
 I was a collaborator on the project
@@ -26,39 +26,38 @@ by compiling a complete bibliography of the works available to 12th century phil
 Here
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
-in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ (18/2024)<br>
+in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
 [PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex
 
-
 **Über Variablen und Entscheidbarkeit**<br>
-PhD thesis, _University of Zurich_<br>
-Request PDF
+PhD thesis, _University of Zurich_, 2023<br>
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request)
 
 **Identität**<br>
-in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler (2022)<br>
-[PDF](./assets/papers/RB-2022-Identitaet-WH.pdf) | BibTex
+in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022<br>
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | BibTex
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
-in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber (2021)<br>
+in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber 2021<br>
 [PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | BibTex
 
 **Ein Dialog über Zahlen und das Zählen**<br>
 [PDF](./assets/papers/RB-2019-DialogUeberZahlenUndDasZaehlen.pdf)
 
 **Identität und Tautologie bei Wittgenstein**<br>
-in _Wittgenstein-Studien: (7/2016)<br>
+in _Wittgenstein-Studien_ 7/2016<br>
 [PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | BibTex
 
 **Identität und Typentheorie bei Wittgenstein**<br>
-in _Wittgenstein-Studien_ (5/2014)<br>
+in _Wittgenstein-Studien_ 5/2014<br>
 [PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | BibTex
 
 **Über das Zählen**<br>
-Master thesis, _University of Zurich_<br>
+Master thesis, _University of Zurich_ 2014<br>
 [PDF](./assets/papers/RB-2014-UeberDasZaehlen.pdf)
 
 **Schrift und Notation**<br>
-in _Germanistik in der Schweiz_ (8/2011)<br>
+in _Germanistik in der Schweiz_ 8/2011<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | BibTex
 
 
