@@ -91,6 +91,7 @@ _University of Zurich_ (online), 16 January 2024
 **Intuitions and the Mathematical Practice of Conjecturing**<br>
 Nancy-Liège Workshop on Mathematical Intuition<br>
 _University of Liège_, 6-8 November 2023
+[Video](https://www.youtube.com/watch?v=jMGEPFuKR_g) (3:47:33-5:07:40)
 
 **Remarks on the Semantics of Variables**<br>
 Bologna-Bonn-Padova BoBoPa Work in Progress Seminar<br>
@@ -110,7 +111,8 @@ _University of Zurich_, 6-7 November 2020
 	
 **How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
 Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein<br>
-_UC Berkeley_, 5-6 April 2019
+_UC Berkeley_, 5-6 April 2019<br>
+[Video](https://www.truthandpower.com/?page_id=806)
 
 **Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
 41<sup>st</sup> International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics<br>
