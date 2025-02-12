@@ -20,7 +20,7 @@ in particular while I was a collaborator in the project
 which revolved around the problem of universals and the notion of metaphysical realism.
 At an early stage of my doctorate I had the opportunity to contribute to the monumental series
 _Grundriss der Geschichte der Philosophie_ by compiling a complete bibliography of the works
-available to 12<sup>th</sup> century philosophers in an
+available to 12th century philosophers in an
 [ideal library](https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2).
 
 My publications and some unpublished writings are listed below.
@@ -68,58 +68,62 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
 
-Here is a selection of talks I have given.
-Those that were recorded are linked accordingly:
 <a id="talks"></a>
+Here is a selection of talks I have given.
+Where avaliable, I have added links to abstracts and recordings:
 
-**Legendre on the Distribution of Primes: A Case Study in the Art of Forming Mathematical Conjectures**<br>
-Homotophy Type Theory Seminar<br>
-_Carnegie Mellon University_, Pittsburgh, 7 February 2025
+**Legendre on the Distribution of Primes. A Case Study in the Art of Forming Mathematical Conjectures**<br>
+_Homotophy Type Theory Seminar_<br>
+Carnegie Mellon University, Pittsburgh, 7 February 2025
+[Abstract](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html)
 
 **Bemerkungen über die mathematische Praxis des Vermutens**<br>
-RheWeSe – Rheinisch-Westfälisches Seminar<br>
-_University of Siegen_, 5 July 2024
+_RheWeSe – Rheinisch-Westfälisches Seminar_<br>
+University of Siegen, 5 July 2024
+[Abstract](https://www.uni-siegen.de/fb6/phima/rhewese/rhewese24.html)
 
 **Towards a Meinongian Semantics for Mathematical Discourse**<br>
-Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle<br>
-_University of Geneva_, 14 May 2024
+_Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle_<br>
+University of Geneva, 14 May 2024
 
 **African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**<br>
-African Philosophy Reading Group<br>
-_University of Zurich_ (online), 16 January 2024
+_African Philosophy Reading Group_<br>
+University of Zurich (online), 16 January 2024
 
 **Intuitions and the Mathematical Practice of Conjecturing**<br>
-Nancy-Liège Workshop on Mathematical Intuition<br>
-_University of Liège_, 6-8 November 2023
+_Nancy-Liège Workshop on Mathematical Intuition_<br>
+University of Liège, 6-8 November 2023
 [Video](https://www.youtube.com/watch?v=jMGEPFuKR_g) (3:47:33-5:07:40)
 
 **Remarks on the Semantics of Variables**<br>
-Bologna-Bonn-Padova BoBoPa Work in Progress Seminar<br>
-_University of Bonn_ (online), 3 April 2023
+_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_<br>
+University of Bonn (online), 3 April 2023
 
 **On Variables and the Limits of Decision**<br>
-Bologna-Bonn-Padova BoBoPa Work in Progress Seminar<br>
-_University of Bonn_ (online), 9 May 2022
+_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_<br>
+University of Bonn (online), 9 May 2022
 		
 **Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**<br>
-Symposium on the Philosophy of Hans-Johann Glock<br>
-_University of Zurich_, 16 September 2021
+_Symposium on the Philosophy of Hans-Johann Glock_<br>
+University of Zurich, 16 September 2021
 	
 **The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**<br>
-Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy<br>
-_University of Zurich_, 6-7 November 2020
+_Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy_<br>
+University of Zurich, 6-7 November 2020
 	
 **How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
-Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein<br>
-_UC Berkeley_, 5-6 April 2019<br>
+_Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein_<br>
+UC Berkeley, 5-6 April 2019<br>
 [Video](https://www.truthandpower.com/?page_id=806)
 
 **Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
-41<sup>st</sup> International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics<br>
+_41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_<br>
 Kirchberg am Wechsel, 6-11 August 2019
+[Abstract (PDF)](https://www.alws.at/abstract_2018.pdf)
 
 **Das Problem der Übersetzung philosophischer Texte**<br>
-Translatio – Eine Tagung zur Übersetzung philosophischer Texte
-aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)<br>
-_University of Zurich_, 14-15 September 2018
+_Translatio – Eine Tagung zur Übersetzung philosophischer Texte
+aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)_<br>
+University of Zurich, 14-15 September 2018
+[Programme (PDF)](https://www.uzh.ch/dam/jcr:5559881a-3f78-494c-9955-ed05a76f6cc1/translatioflyer.pdf)
 
