@@ -29,9 +29,6 @@ Here
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ (18/2024)<br>
 ([PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex)
 
-**Über das Wesen der Zahlen. Ein kurzer Dialog zwischen Philosophie und Mathematik**<br>
-in _Z’Phil – Die Philosophiezeitschrift der Zürcher Studierenden_ (1/2024)<br>
-([PDF](./assets/papers/RB-2025-BeweisWahrheitGewissheit.pdf) | BibTex)
 
 **Über Variablen und Entscheidbarkeit**<br>
 PhD thesis, _University of Zurich_<br>
@@ -44,6 +41,9 @@ in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler (2022)<br>
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
 in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber (2021)<br>
 ([PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | BibTex)
+
+**Ein Dialog über Zahlen und das Zählen**<br>
+([PDF](./assets/papers/RB-2019-DialogUeberZahlenUndDasZaehlen.pdf))
 
 **Identität und Tautologie bei Wittgenstein**<br>
 in _Wittgenstein-Studien: (7/2016)<br>
