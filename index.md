@@ -26,6 +26,8 @@ available to 12th century philosophers in an
 My publications and some unpublished writings are listed below.
 Further down you will also find a selection of [talks](#talks) I have given.
 
+---
+
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
 [PDF](./assets/papers/RB-2024-BeweisWahrheitGewissheit.pdf) | 
@@ -68,6 +70,7 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
 
+---
 <a id="talks"></a>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
@@ -103,12 +106,12 @@ University of Liège<br>
 
 2023 April 3<br>
 **Remarks on the Semantics of Variables**<br>
-_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
+_Bologna-Bonn-Padova Work in Progress Seminar_,
 University of Bonn (online)
 
 2022 May 9<br>
 **On Variables and the Limits of Decision**<br>
-_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
+_Bologna-Bonn-Padova Work in Progress Seminar_,
 University of Bonn (online)
 		
 2021 September 16<br>
@@ -128,7 +131,7 @@ UC Berkeley<br>
 [Video](https://www.truthandpower.com/?page_id=806)
 
 2019 August 6<br>
-**Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
+**Whitehead and Wittgenstein. On the Theory of Types, Symbolism, and Mathematics**<br>
 _41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
 Kirchberg am Wechsel<br>
 [Abstract (PDF)](https://www.alws.at/abstract_2018.pdf) (p. 4)
