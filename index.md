@@ -23,8 +23,8 @@ _Grundriss der Geschichte der Philosophie_ by compiling a complete bibliography 
 available to 12<sup>th</sup> century philosophers in an
 [ideal library](./https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2.html).
 
-
-Here
+My publications and some unpublished writings are listed below.
+Further down you will also find a selection of [talks](#talks) I have given.
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
@@ -67,3 +67,8 @@ Master thesis, _University of Zurich_ 2014<br>
 in _Germanistik in der Schweiz_ 8/2011<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
+
+Here a list of selected talks I have given:
+<a id="talks"></a>
+
+
