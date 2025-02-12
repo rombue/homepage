@@ -70,7 +70,7 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 
 <a id="talks"></a>
 Here is a selection of talks I have given.
-Where avaliable, I have added links to programmes, abstracts and recordings:
+Where available, I have included links to programmes, abstracts and recordings:
 
 **Legendre on the Distribution of Primes. A Case Study in the Art of Forming Mathematical Conjectures**<br>
 _Homotophy Type Theory Seminar_,
