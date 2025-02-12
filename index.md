@@ -94,7 +94,7 @@ University of Zurich (online), 16 January 2024
 **Intuitions and the Mathematical Practice of Conjecturing**<br>
 _Nancy-Liège Workshop on Mathematical Intuition_,
 University of Liège, 6-8 November 2023<br>
-[Video](https://www.youtube.com/watch?v=jMGEPFuKR_g) (3:47:33-5:07:40)
+[Video](https://www.youtube.com/live/jMGEPFuKR_g?si=OsHrhDRxk1okgyRi&t=13653) (3:47:33-5:07:40)
 
 **Remarks on the Semantics of Variables**<br>
 _Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
@@ -120,7 +120,7 @@ UC Berkeley, 5-6 April 2019<br>
 **Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
 _41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
 Kirchberg am Wechsel, 6-11 August 2019<br>
-[Abstract (PDF)](https://www.alws.at/abstract_2018.pdf)
+[Abstract (PDF)](https://www.alws.at/abstract_2018.pdf) (p. 4)
 
 **Das Problem der Übersetzung philosophischer Texte**<br>
 _Translatio – Eine Tagung zur Übersetzung philosophischer Texte
