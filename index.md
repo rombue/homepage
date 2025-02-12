@@ -31,8 +31,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Papers
 
-Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)
-Über Beweis, Wahrheit und Gewissheit in der Mathematik
+_Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
+## Über Beweis, Wahrheit und Gewissheit in der Mathematik
 
 
 # Papers
