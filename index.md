@@ -70,60 +70,61 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 
 <a id="talks"></a>
 Here is a selection of talks I have given.
-Where avaliable, I have added links to abstracts and recordings:
+Where avaliable, I have added links to programmes, abstracts and recordings:
 
 **Legendre on the Distribution of Primes. A Case Study in the Art of Forming Mathematical Conjectures**<br>
-_Homotophy Type Theory Seminar_<br>
-Carnegie Mellon University, Pittsburgh, 7 February 2025
+_Homotophy Type Theory Seminar_,
+Carnegie Mellon University, Pittsburgh, 7 February 2025<br>
 [Abstract](https://www.cmu.edu/dietrich/philosophy/hott/seminars/index.html)
 
 **Bemerkungen über die mathematische Praxis des Vermutens**<br>
-_RheWeSe – Rheinisch-Westfälisches Seminar_<br>
-University of Siegen, 5 July 2024
+_RheWeSe – Rheinisch-Westfälisches Seminar_,
+University of Siegen, 5 July 2024<br>
 [Abstract](https://www.uni-siegen.de/fb6/phima/rhewese/rhewese24.html)
 
 **Towards a Meinongian Semantics for Mathematical Discourse**<br>
-_Workshop Austro-German Philosophy: Between Bolzano and the Vienna Circle_<br>
-University of Geneva, 14 May 2024
+_OCET Lectures and Workshop Series: Austro-German Philosophy – Between Bolzano and the Vienna Circle_,
+University of Geneva, 14 May 2024<br>
+[Programme (PDF)](https://www.unige.ch/lettres/philo/application/files/6817/1387/7488/Programme_AGP-05-2024.pdf)
 
 **African Philosophy. Myth and Reality – P. J. Hountondji on the idea of philosophy in general and in Africa in particular**<br>
-_African Philosophy Reading Group_<br>
+_African Philosophy Reading Group_,
 University of Zurich (online), 16 January 2024
 
 **Intuitions and the Mathematical Practice of Conjecturing**<br>
-_Nancy-Liège Workshop on Mathematical Intuition_<br>
-University of Liège, 6-8 November 2023
+_Nancy-Liège Workshop on Mathematical Intuition_,
+University of Liège, 6-8 November 2023<br>
 [Video](https://www.youtube.com/watch?v=jMGEPFuKR_g) (3:47:33-5:07:40)
 
 **Remarks on the Semantics of Variables**<br>
-_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_<br>
+_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
 University of Bonn (online), 3 April 2023
 
 **On Variables and the Limits of Decision**<br>
-_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_<br>
+_Bologna-Bonn-Padova BoBoPa Work in Progress Seminar_,
 University of Bonn (online), 9 May 2022
 		
 **Mathematics as Begriffsbildung. Remarks on Glock and Büttner on Wittgenstein**<br>
-_Symposium on the Philosophy of Hans-Johann Glock_<br>
+_Symposium on the Philosophy of Hans-Johann Glock_,
 University of Zurich, 16 September 2021
 	
 **The Use of Letters As Variables Across the Boundaries of Logic and Mathematics**<br>
-_Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy_<br>
+_Zurich Doctoral Workshops – Ludwig Wittgenstein and German Philosophy_,
 University of Zurich, 6-7 November 2020
 	
 **How Whitehead Influenced Wittgenstein's Thinking About Mathematics**<br>
-_Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein_<br>
+_Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstein_,
 UC Berkeley, 5-6 April 2019<br>
 [Video](https://www.truthandpower.com/?page_id=806)
 
 **Whitehead and Wittgenstein: On the Theory of Types, Symbolism, and Mathematics**<br>
-_41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_<br>
-Kirchberg am Wechsel, 6-11 August 2019
+_41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
+Kirchberg am Wechsel, 6-11 August 2019<br>
 [Abstract (PDF)](https://www.alws.at/abstract_2018.pdf)
 
 **Das Problem der Übersetzung philosophischer Texte**<br>
 _Translatio – Eine Tagung zur Übersetzung philosophischer Texte
-aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)_<br>
-University of Zurich, 14-15 September 2018
+aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)_,
+University of Zurich, 14-15 September 2018<br>
 [Programme (PDF)](https://www.uzh.ch/dam/jcr:5559881a-3f78-494c-9955-ed05a76f6cc1/translatioflyer.pdf)
 
