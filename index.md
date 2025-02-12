@@ -71,4 +71,6 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here a list of selected talks I have given:
 <a id="talks"></a>
 
+Legendre
+
 
