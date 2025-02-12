@@ -25,7 +25,7 @@ At an early stage of my doctorate I had the opportunity to contribute to the mon
 <i>Grundriss der Geschichte der Philosophie</i> by compiling a complete bibliography of the works
 available to 12th century philosophers in an
 <a href="https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?qn=%24%24%24OpenURL%24%24%24&id=doi%3A10.24894%2FGrundriss_MA3_SV1_PT1_CH1_PA2">ideal library</a>.
-</p>p
+</p>
 
 <p style="text-align: justify;">
 My publications and some unpublished writings are listed below.
