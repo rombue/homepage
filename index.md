@@ -30,6 +30,7 @@ available to 12th century philosophers in an
 <p style="text-align: justify;">
 My publications and some unpublished writings are listed below.
 Further down you will also find a selection of <a href="#talks">talks</a> I have given.
+You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 </p>
 
 ---
