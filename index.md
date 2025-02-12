@@ -27,31 +27,39 @@ by compiling a complete bibliography of the works available to 12th century phil
 ## Papers
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
-_in Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_
+_in Siegener Beiträge zur Geschichte und Philosophie der Mathematik (18/2024)_<br>
+(PDF | BibTex)
 
 **Über Variablen und Entscheidbarkeit.
 Philosophische Betrachtungen über den Gebrauch von Buchstaben als Variablen,
 die Entscheidbarkeit von Prädikaten und den Zusammenhang zwischen
 Unentscheidbarkeit und Buchstabengebrauch in logischen Formalsprachen**<br>
 _PhD Thesis, University of Zurich_
+(PDF)
 
 **Identität**<br>
 _in A. Weiberg, S. Majetschak (eds.), Wittgenstein-Handbuch, Metzler Verlag (2022)_
+(PDF | BibTex)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
 _in B. Ritter, D. Sölch (eds.), Wittgenstein und die Philosophiegeschichte, Alber Verlag (2021)_
+(PDF | BibTex)
 
 **Identität und Tautologie bei Wittgenstein**<br>
 _in Wittgenstein-Studien (7/2016)_
+(PDF | BibTex)
 
 **Identität und Typentheorie bei Wittgenstein**<br>
 _in Wittgenstein-Studien (5/2014)_
+(PDF | BibTex)
 
 **Über das Zählen**<br>
 _Master Thesis, University of Zurich_
+(PDF)
 
 **Schrift und Notation**<br>
 _in Germanistik in der Schweiz (8/2011)_
+(PDF | BibTex)
 
 
 # Papers
