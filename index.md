@@ -69,7 +69,7 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
 
 Here a list of selected talks I have given:
-## My Section <a id="custom-anchor"></a>
+## My Section <a id="talks"></a>
 
 Legendre
 
