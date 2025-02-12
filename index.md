@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="center-text">
 In my research, I have mainly been concerned with questions in the history and epistemology
 of logic, mathematics and computer science.
 I have worked on counting and counting notations, on logical identity and variables,
@@ -25,6 +26,7 @@ available to 12th century philosophers in an
 
 My publications and some unpublished writings are listed below.
 Further down you will also find a selection of [talks](#talks) I have given.
+</div>
 
 ---
 
