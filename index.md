@@ -35,6 +35,11 @@ You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 
 ---
 
+**Intuitions in the Mathematical Practice of Conjecturing**<br>
+in _Logique et Analyse_ 2025<br>
+[PDF](./assets/papers/RB-2025-IntutionsInTheMathematicalPracticeOfConjecturing.pdf) | 
+[BibTex](./assets/papers/RB-2025-bibtex.bib)
+
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
 [PDF](./assets/papers/RB-2024-BeweisWahrheitGewissheit.pdf) | 
