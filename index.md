@@ -87,6 +87,11 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2025 April 9<br>
+**Some Remarks on Benno Kerry's "Ueber Anschauung und ihre psychische Verarbeitung"**<br>
+_OCET Meeting_,
+University of Geneva<br>
+
 2025 February 7<br>
 **Legendre on the Distribution of Primes. A Case Study in the Art of Forming Mathematical Conjectures**<br>
 _Homotophy Type Theory Seminar_,
