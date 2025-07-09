@@ -38,7 +38,17 @@ You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 **Intuitions in the Mathematical Practice of Conjecturing**<br>
 in _Logique et Analyse_ 2025<br>
 [PDF](./assets/papers/RB-2025-IntuitionsInTheMathematicalPracticeOfConjecturing.pdf) | 
-[BibTex](./assets/papers/RB-2025-bibtex.bib)
+[BibTex](./assets/papers/RB-2025c-bibtex.bib)
+
+**Mathematik**<br>
+in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[BibTex](./assets/papers/RB-2025b-bibtex.bib)
+
+**Essays in Science and Philosophy (1947)**<br>
+in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[BibTex](./assets/papers/RB-2025a-bibtex.bib)
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
 in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br>
@@ -86,6 +96,12 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 <a id="talks"></a>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
+
+2025 July 3<br>
+**Aristoteles on Ecthesis and Induction**<br>
+_International Aristotelian Conference_,
+University of Lisbon<br>
+[Abstract](./assets/papers/book-of-abstracts-international-aristotelian-conference-2025.pdf)
 
 2025 April 9<br>
 **Some Remarks on Benno Kerry's "Ueber Anschauung und ihre psychische Verarbeitung"**<br>
