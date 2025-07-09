@@ -101,7 +101,7 @@ Where available, I have included links to programmes, abstracts and recordings:
 **Aristoteles on Ecthesis and Induction**<br>
 _International Aristotelian Conference_,
 University of Lisbon<br>
-[Abstract](./assets/papers/book-of-abstracts-international-aristotelian-conference-2025.pdf)
+[Abstract (PDF)](./assets/papers/book-of-abstracts-international-aristotelian-conference-2025.pdf)
 
 2025 April 9<br>
 **Some Remarks on Benno Kerry's "Ueber Anschauung und ihre psychische Verarbeitung"**<br>
