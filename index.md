@@ -97,6 +97,12 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2025 July 24<br>
+**Ramsey's Contribution to the _Entscheidungsproblem_**<br>
+_13^th^ Annual Conference of the Society for the Study of the History of Analytical Philosophy_,
+University of Jena<br>
+[Abstract (PDF)](./assets/papers/book-of-abstracts-international-aristotelian-conference-2025.pdf)
+
 2025 July 3<br>
 **Aristoteles on Ecthesis and Induction**<br>
 _International Aristotelian Conference_,
