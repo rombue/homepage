@@ -102,7 +102,6 @@ Where available, I have included links to programmes, abstracts and recordings:
 _‘Austrian Railway Stations and one Chinese Game of Chance’.
 10 years of Inbegriff, the Geneva Seminar for Austro-German Philosophy (part 2)_,
 University of Geneva<br>
-[Abstract (PDF)](./assets/papers/BookOfAbstractsSSHAP2025.pdf)
 
 2025 July 24<br>
 **Ramsey's Contribution to the _Entscheidungsproblem_**<br>
