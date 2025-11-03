@@ -100,7 +100,7 @@ Where available, I have included links to programmes, abstracts and recordings:
 2025 September 12<br>
 **From Raw Intuition to _Grenzbegriffe_: Benno Kerry’s Theory of Concept Formation through Mental Work**<br>
 _‘Austrian Railway Stations and one Chinese Game of Chance’.
-10 years of Inbegriff, the Geneva Seminar for Austro-German Philosophy, part 2_
+10 years of Inbegriff, the Geneva Seminar for Austro-German Philosophy (part 2)_,
 University of Geneva<br>
 [Abstract (PDF)](./assets/papers/BookOfAbstractsSSHAP2025.pdf)
 
