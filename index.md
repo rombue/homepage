@@ -97,6 +97,12 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2025 September 12<br>
+**From Raw Intuition to _Grenzbegriffe_: Benno Kerry’s Theory of Concept Formation through Mental Work**<br>
+_13<sup>th</sup> ‘Austrian Railway Stations and one Chinese Game of Chance’.
+10 years of _Inbegriff_, the Geneva Seminar for Austro-German Philosophy, part 2<br>
+[Abstract (PDF)](./assets/papers/BookOfAbstractsSSHAP2025.pdf)
+
 2025 July 24<br>
 **Ramsey's Contribution to the _Entscheidungsproblem_**<br>
 _13<sup>th</sup> Annual Conference of the Society for the Study of the History of Analytical Philosophy_,
