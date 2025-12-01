@@ -3,13 +3,17 @@ layout: default
 ---
 
 <p style="text-align: justify;">
-In my research, I have mainly been concerned with questions in the history and epistemology
-of logic, mathematics and computer science.
-I have worked on counting and counting notations, on logical identity and variables,
-on the history of early analytic philosophy and of the classical decision problem.
+In my research, I have mainly been concerned with questions in the philosophy of language 
+and the epistemology of logic, mathematics and computer science.
+I have worked on conjecturing, on counting and counting notations, on identity and variables,
+and on the history of early analytic philosophy and of the classical decision problem.
 My current project,
 <a href="https://data.snf.ch/grants/grant/222039">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
 aims at providing the basis for a general epistemology of algorithms.
+In my upcoming project,
+<a href="https://data.snf.ch/grants/grant/237069">Philosophical Research in the Age of AI</a>,
+I will critically examine the positive and negative potential of using state-of-the-art AI technology
+in and for the purposes of philosophical research.
 As a collaborator in the project
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet">Origins of Contemporary European Thought 1837–1938</a>
 at the University of Geneva, I am focussing on the philosophy of arithmetic in the Brentanian tradition, especially
@@ -17,8 +21,9 @@ in Stumpf, Kerry, and Husserl.
 </p>
 
 <p style="text-align: justify;">
-I have also worked extensively on metaphysical problems in ancient Greek and medieval Latin philosophy,
-in particular while I was a collaborator in the project
+I have also worked extensively on metaphysical problems in ancient Greek, medieval Latin and 19th century philosophy,
+in particular on incomplete, arbitrary and impossible objects.
+I was a collaborator in the project
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/realisms">Realisms</a>,
 which revolved around the problem of universals and the notion of metaphysical realism.
 At an early stage of my doctorate I had the opportunity to contribute to the monumental series
