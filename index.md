@@ -41,7 +41,7 @@ You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 ---
 
 **Intuitions in the Mathematical Practice of Conjecturing**<br>
-in _Logique et Analyse_ 2025<br>
+in _Logique et Analyse_ 2024-2025<br>
 [PDF](./assets/papers/RB-2025-IntuitionsInTheMathematicalPracticeOfConjecturing.pdf) | 
 [BibTex](./assets/papers/RB-2025c-bibtex.bib)
 
