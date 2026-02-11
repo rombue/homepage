@@ -180,16 +180,16 @@ _Wittgenstein in the 21st Century – New Directions in the Study of Wittgenstei
 UC Berkeley<br>
 [Video](https://www.truthandpower.com/?page_id=806) (day 3, part 1)
 
-2019 August 6<br>
-**Whitehead and Wittgenstein. On the Theory of Types, Symbolism, and Mathematics**<br>
-_41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
-Kirchberg am Wechsel<br>
-[Abstract (PDF)](https://www.alws.at/abstract_2018.pdf) (p. 4)
-
 2018 September 14<br>
 **Das Problem der Übersetzung philosophischer Texte**<br>
 _Translatio – Eine Tagung zur Übersetzung philosophischer Texte
 aus dem lateinischen Mittelalter (mit Übersetzungswerkstatt)_,
 University of Zurich<br>
 [Programme (PDF)](https://www.uzh.ch/dam/jcr:5559881a-3f78-494c-9955-ed05a76f6cc1/translatioflyer.pdf)
+
+2018 August 6<br>
+**Whitehead and Wittgenstein. On the Theory of Types, Symbolism, and Mathematics**<br>
+_41st International Wittgenstein Symposium 2018 – Philosophy of Logic and Mathematics_,
+Kirchberg am Wechsel<br>
+[Abstract (PDF)](https://www.alws.at/abstract_2018.pdf) (p. 4)
 
