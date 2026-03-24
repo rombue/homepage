@@ -47,7 +47,7 @@ in _Logique et Analyse_ 2024-2025<br>
 
 **Mathematik**<br>
 in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Mathematik%20in%20Whitehead-Handbuch) | 
 [BibTex](./assets/papers/RB-2025b-bibtex.bib)
 
 **Essays in Science and Philosophy (1947)**<br>
