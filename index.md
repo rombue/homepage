@@ -11,7 +11,7 @@ My current project,
 <a href="https://data.snf.ch/grants/grant/222039">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
 aims at providing the basis for a general epistemology of algorithms.
 In my upcoming project,
-<a href="https://data.snf.ch/grants/grant/237069">Philosophical Research in the Age of AI</a>,
+<a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/phirai">Philosophical Research in the Age of AI</a>,
 I will critically examine the positive and negative potential of using state-of-the-art AI technology
 in and for the purposes of philosophical research.
 As a collaborator in the project
