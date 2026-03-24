@@ -52,7 +52,7 @@ in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
 
 **Essays in Science and Philosophy (1947)**<br>
 in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Essays%20in%20Whitehead-Handbuch) | 
 [BibTex](./assets/papers/RB-2025a-bibtex.bib)
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
@@ -62,11 +62,11 @@ in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br
 
 **Über Variablen und Entscheidbarkeit**<br>
 PhD thesis, _University of Zurich_, 2023<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request)
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Ueber%20Variablen)
 
 **Identität**<br>
 in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request) | 
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Identitaet%20in%20Wittgenstein-Handbuch) | 
 [BibTex](./assets/papers/RB-2022-bibtex.bib)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
