@@ -102,6 +102,11 @@ in _Germanistik in der Schweiz_ 8/2011<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2025 December 15<br>
+**Balancing Generic Individuals between _ekthesis_ and _figura dictionis_**<br>
+_AMPhi Workshop II_,
+University of Geneva<br>
+
 2025 September 12<br>
 **From Raw Intuition to _Grenzbegriffe_: Benno Kerry’s Theory of Concept Formation through Mental Work**<br>
 _‘Austrian Railway Stations and one Chinese Game of Chance’.
