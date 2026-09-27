@@ -8,7 +8,7 @@ and the epistemology of logic, mathematics and computer science.
 I have worked on conjecturing, on counting and counting notations, on identity and variables,
 and on the history of early analytic philosophy and of the classical decision problem.
 In 2025, I received the
-<a href="https://verlag-alber.de/preise-auszeichnungen">Karl Alber Prize of the <i>Philosophisches Jahrbuch</i>i></a>
+<a href="https://verlag-alber.de/preise-auszeichnungen">Karl Alber Prize of the <i>Philosophisches Jahrbuch</i></a>
 for my book on variables and decidability.
 My current SNSF Spark project,
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/phirai">Philosophical Research in the Age of AI</a>,
