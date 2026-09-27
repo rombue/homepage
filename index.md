@@ -49,68 +49,68 @@ You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 ---
 
 **Über Variablen und Entscheidbarkeit**<br>
-Karl Alber 2026<br> (406 p.)
+Karl Alber 2026 (406 p.)<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Ueber%20Variablen) | 
 [Book](https://www.nomos-shop.de/de/p/ueber-variablen-und-entscheidbarkeit-978-3-495-98706-3) | 
 [BibTex](./assets/papers/RB-2026-bibtex.bib)
 
 **Intuitions in the Mathematical Practice of Conjecturing**<br>
-in _Logique et Analyse_ 2024-2025<br> (26 p.)
+in _Logique et Analyse_ 2024-2025 (26 p.)<br>
 [PDF](./assets/papers/RB-2025-IntuitionsInTheMathematicalPracticeOfConjecturing.pdf) | 
 [DOI](https://doi.org/10.2143/LEA.266.0.3294843) | 
 [BibTex](./assets/papers/RB-2025c-bibtex.bib)
 
 **Mathematik**<br>
-in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br> (4 p.)
+in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025 (4 p.)<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Mathematik%20in%20Whitehead-Handbuch) | 
 [DOI](https://doi.org/10.1007/978-3-476-06012-9_34) | 
 [BibTex](./assets/papers/RB-2025b-bibtex.bib)
 
 **Essays in Science and Philosophy (1947)**<br>
-in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br> (9 p.)
+in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025 (9 p.)<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Essays%20in%20Whitehead-Handbuch) | 
 [DOI](https://doi.org/10.1007/978-3-476-06012-9_14) | 
 [BibTex](./assets/papers/RB-2025a-bibtex.bib)
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
-in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br> (34 p.)
+in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024 (34 p.)<br>
 [PDF](./assets/papers/RB-2024-BeweisWahrheitGewissheit.pdf) | 
 [BibTex](./assets/papers/RB-2024-bibtex.bib)
 
 **Identität**<br>
-in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022<br> (4 p.)
+in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022 (4 p.)<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Identitaet%20in%20Wittgenstein-Handbuch) | 
 [DOI](https://doi.org/10.1007/978-3-476-05854-6_59) | 
 [BibTex](./assets/papers/RB-2022-bibtex.bib)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
-in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Karl Alber 2021<br> (43 p.)
+in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Karl Alber 2021 (43 p.)<br>
 [PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | 
 [Book](https://www.nomos-shop.de/de/p/wittgenstein-und-die-philosophiegeschichte-gr-978-3-495-49159-1) | 
 [BibTex](./assets/papers/RB-2021-bibtex.bib)
 
 **Ein Dialog über Zahlen und das Zählen**<br>
-unpublished<br> (20 p.)
+unpublished (20 p.)<br>
 [PDF](./assets/papers/RB-2019-DialogUeberZahlenUndDasZaehlen.pdf)
 
 **Identität und Tautologie bei Wittgenstein**<br>
-in _Wittgenstein-Studien_ 7/2016<br> (31 p.)
+in _Wittgenstein-Studien_ 7/2016 (31 p.)<br>
 [PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | 
 [DOI](https://doi.org/10.1515/witt-2016-0110) | 
 [BibTex](./assets/papers/RB-2016-bibtex.bib)
 
 **Identität und Typentheorie bei Wittgenstein**<br>
-in _Wittgenstein-Studien_ 5/2014<br> (31 p.)
+in _Wittgenstein-Studien_ 5/2014 (31 p.)<br>
 [PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | 
 [DOI](https://doi.org/10.1515/wgst.2014.5.1.101) | 
 [BibTex](./assets/papers/RB-2014-bibtex.bib)
 
 **Über das Zählen**<br>
-Master thesis, _University of Zurich_ 2014<br> (99 p.)
+Master thesis, _University of Zurich_ 2014 (99 p.)<br>
 [PDF](./assets/papers/RB-2014-UeberDasZaehlen.pdf)
 
 **Schrift und Notation**<br>
-in _Germanistik in der Schweiz_ 8/2011<br> (52 p.)
+in _Germanistik in der Schweiz_ 8/2011 (52 p.)<br>
 [PDF](./assets/papers/RB-2011-SchriftUndNotation.pdf) | 
 [BibTex](./assets/papers/RB-2011-bibtex.bib)
 
