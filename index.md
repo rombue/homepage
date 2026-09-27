@@ -7,17 +7,22 @@ In my research, I have mainly been concerned with questions in the philosophy of
 and the epistemology of logic, mathematics and computer science.
 I have worked on conjecturing, on counting and counting notations, on identity and variables,
 and on the history of early analytic philosophy and of the classical decision problem.
-My current project,
-<a href="https://data.snf.ch/grants/grant/222039">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
-aims at providing the basis for a general epistemology of algorithms.
-In my upcoming project,
+In 2025, I received the
+<a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/phirai">Karl Alber Prize of the <i>Philosophisches Jahrbuch</i>i></a>
+for my book on variables and decidability.
+My current SNSF Spark project,
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/phirai">Philosophical Research in the Age of AI</a>,
-I will critically examine the positive and negative potential of using state-of-the-art AI technology
-in and for the purposes of philosophical research.
+explores the benefits, risks and limitations of AI in philosophical research through practical experimentation.
+Its initial focus is on creating a digital archive of Austro-German philosophy and developing specialised AI tools
+to support research on these materials.
+My completed SNSF Postdoc.Mobility project,
+<a href="https://data.snf.ch/grants/grant/222039">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
+investigated the forms of understanding distinctive to mathematics, the epistemic ideals guiding the practice of proof,
+and how the growing use of computer-based algorithms may reshape standards of mathematical explanation and understanding.
 As a collaborator in the project
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/ocet">Origins of Contemporary European Thought 1837–1938</a>
 at the University of Geneva, I am focussing on the philosophy of arithmetic in the Brentanian tradition, especially
-in Stumpf, Kerry, and Husserl.
+in Bolzano, Kerry, and Husserl.
 </p>
 
 <p style="text-align: justify;">
@@ -40,19 +45,28 @@ You can best reach me <a href="mailto:romain.buechi@unige.ch">here</a>.
 
 ---
 
+**Über Variablen und Entscheidbarkeit**<br>
+Karl Alber 2026<br>
+[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Ueber%20Variablen) | 
+[Book](https://www.nomos-shop.de/de/p/ueber-variablen-und-entscheidbarkeit-978-3-495-98706-3) | 
+[BibTex](./assets/papers/RB-2026-bibtex.bib)
+
 **Intuitions in the Mathematical Practice of Conjecturing**<br>
 in _Logique et Analyse_ 2024-2025<br>
 [PDF](./assets/papers/RB-2025-IntuitionsInTheMathematicalPracticeOfConjecturing.pdf) | 
+[DOI](https://doi.org/10.2143/LEA.266.0.3294843) | 
 [BibTex](./assets/papers/RB-2025c-bibtex.bib)
 
 **Mathematik**<br>
 in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Mathematik%20in%20Whitehead-Handbuch) | 
+[DOI](https://doi.org/10.1007/978-3-476-06012-9_34) | 
 [BibTex](./assets/papers/RB-2025b-bibtex.bib)
 
 **Essays in Science and Philosophy (1947)**<br>
 in T. Röck, M. Schramm (eds.), _Whitehead-Handbuch_, Metzler 2025<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Essays%20in%20Whitehead-Handbuch) | 
+[DOI](https://doi.org/10.1007/978-3-476-06012-9_14) | 
 [BibTex](./assets/papers/RB-2025a-bibtex.bib)
 
 **Über Beweis, Wahrheit und Gewissheit in der Mathematik**<br>
@@ -60,18 +74,16 @@ in _Siegener Beiträge zur Geschichte und Philosophie der Mathematik_ 18/2024<br
 [PDF](./assets/papers/RB-2024-BeweisWahrheitGewissheit.pdf) | 
 [BibTex](./assets/papers/RB-2024-bibtex.bib)
 
-**Über Variablen und Entscheidbarkeit**<br>
-PhD thesis, _University of Zurich_, 2023<br>
-[Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Ueber%20Variablen)
-
 **Identität**<br>
 in A. Weiberg, S. Majetschak (eds.), _Wittgenstein-Handbuch_, Metzler 2022<br>
 [Request PDF](mailto:romain.buechi@unige.ch?subject=PDF%20Access%20Request:%20Identitaet%20in%20Wittgenstein-Handbuch) | 
+[DOI](https://doi.org/10.1007/978-3-476-05854-6_59) | 
 [BibTex](./assets/papers/RB-2022-bibtex.bib)
 
 **Wittgensteins neue Logik und Whiteheads universale Algebra**<br>
-in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Alber 2021<br>
+in B. Ritter, D. Sölch (eds.), _Wittgenstein und die Philosophiegeschichte_, Karl Alber 2021<br>
 [PDF](./assets/papers/RB-2021-WhiteheadUndWittgenstein.pdf) | 
+[Book](https://www.nomos-shop.de/de/p/wittgenstein-und-die-philosophiegeschichte-gr-978-3-495-49159-1) | 
 [BibTex](./assets/papers/RB-2021-bibtex.bib)
 
 **Ein Dialog über Zahlen und das Zählen**<br>
@@ -81,11 +93,13 @@ unpublished<br>
 **Identität und Tautologie bei Wittgenstein**<br>
 in _Wittgenstein-Studien_ 7/2016<br>
 [PDF](./assets/papers/RB-2016-IdentitaetUndTautologieBeiWittgenstein.pdf) | 
+[DOI](https://doi.org/10.1515/witt-2016-0110) | 
 [BibTex](./assets/papers/RB-2016-bibtex.bib)
 
 **Identität und Typentheorie bei Wittgenstein**<br>
 in _Wittgenstein-Studien_ 5/2014<br>
 [PDF](./assets/papers/RB-2014-IdentitaetUndTypentheorieBeiWittgenstein.pdf) | 
+[DOI](https://doi.org/10.1515/wgst.2014.5.1.101) | 
 [BibTex](./assets/papers/RB-2014-bibtex.bib)
 
 **Über das Zählen**<br>
