@@ -10,6 +10,9 @@ and on the history of early analytic philosophy and of the classical decision pr
 In 2025, I received the
 <a href="https://verlag-alber.de/preise-auszeichnungen">Karl Alber Prize of the <i>Philosophisches Jahrbuch</i></a>
 for my book on variables and decidability.
+</p>
+
+<p style="text-align: justify;">
 My current SNSF Spark project,
 <a href="https://www.unige.ch/lettres/philo/recherche/inbegriff/phirai">Philosophical Research in the Age of AI</a>,
 explores the benefits, risks and limitations of AI in philosophical research through practical experimentation.
