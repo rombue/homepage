@@ -18,7 +18,7 @@ My current SNSF Spark project,
 explores the benefits, risks and limitations of AI in philosophical research through practical experimentation.
 Its initial focus is on creating a digital archive of Austro-German philosophy and developing specialised AI tools
 to support research on these materials.
-My completed SNSF Postdoc.Mobility project,
+My completed project,
 <a href="https://data.snf.ch/grants/grant/222039">Algorithms and Proofs as Sources of Understanding in Mathematics</a>,
 investigated the forms of understanding distinctive to mathematics, the epistemic ideals guiding the practice of proof,
 and how the growing use of computer-based algorithms may reshape standards of mathematical explanation and understanding.
