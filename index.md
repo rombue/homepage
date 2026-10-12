@@ -119,6 +119,11 @@ in _Germanistik in der Schweiz_ 8/2011 (52&nbsp;pp.)<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2026 October 8<br>
+**Conjecturing with AI: A View from Mathematical Practice**<br>
+_Mathematical Proof in the Age of AI_,
+University of Bergen<br>
+
 2026 April 29<br>
 **History of Philosophy in the Age of AI**<br>
 _Inbegriff Lectures and Workshop Series_,
