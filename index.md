@@ -123,6 +123,9 @@ Where available, I have included links to programmes, abstracts and recordings:
 **Conjecturing with AI: A View from Mathematical Practice**<br>
 _Mathematical Proof in the Age of AI_,
 University of Bergen<br>
+[Abstract](https://www4.uib.no/en/research/research-groups/philosophy-of-science-and-mathematics/events/mathematical-proof-in-the-age-of-ai-implications-of-the-use-of-artificial-intelligence-in-mathematical-research) |
+[Video](https://www.youtube.com/live/p-NSwTwpIrA?si=okmYEDzmEgBuczP-)
+
 
 2026 April 29<br>
 **History of Philosophy in the Age of AI**<br>
