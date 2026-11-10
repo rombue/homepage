@@ -119,6 +119,12 @@ in _Germanistik in der Schweiz_ 8/2011 (52&nbsp;pp.)<br>
 Here is a selection of talks I have given.
 Where available, I have included links to programmes, abstracts and recordings:
 
+2026 October21<br>
+**From Poor Scans to Research Hypotheses: The Digital Kerry Edition as an AI-Assisted Workflow**<br>
+_DaSCHCon 2026 – AI in Practice: Experiences, Workflows, and Platforms_,
+University of Bern<br>
+[Abstract](https://dasch.swiss/news/daschcon-2026-programme)
+
 2026 October 8<br>
 **Conjecturing with AI: A View from Mathematical Practice**<br>
 _Mathematical Proof in the Age of AI_,
